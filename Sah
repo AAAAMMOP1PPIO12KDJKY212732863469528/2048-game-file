@@ -1,0 +1,6 @@
+//Variables
+x = 0,
+s = 0
+Function tetration(x,s) {
+a = math.pow(x,tetration(x,s-1)),
+}
